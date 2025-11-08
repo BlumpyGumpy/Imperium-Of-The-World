@@ -9,7 +9,7 @@ state = {
 	}
 
 	history = {
-		owner = GRE
+		owner = BYZ
 		victory_points = {
 			9914 5 
 		}
@@ -35,7 +35,7 @@ state = {
 			}
 
 		}
-		add_core_of = GRE
+		add_core_of = BYZ
 
 	}
 
