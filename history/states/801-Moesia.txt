@@ -5,6 +5,10 @@ state={
 
 	state_category=rural
 
+			victory_points = { #Stara Zagora
+			6814 3
+		}
+
 	history={
 		owner = BUL
 		victory_points = { #Ruse
@@ -23,7 +27,7 @@ state={
 	}
 
 	provinces={
-		3796 3819 3952 6842 9610 9612 
+		3796 3819 3952 6842 9610 9612 6952 6982 6814
 	}
 #	resources={
 #		oil=1

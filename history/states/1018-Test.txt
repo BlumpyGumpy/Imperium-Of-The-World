@@ -1,24 +1,23 @@
-
 state={
-	id=349
-	name="STATE_349"
-	manpower = 592821
+	id=1018
+	name="STATE_1018"
+	manpower = 1151863
 	
 	state_category = rural
 
 	history={
-		owner = TUR
+		owner = GRE
 		victory_points = {
-			9777 3 
+			11881 10
 		}
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = TUR
+		add_core_of = GRE
 	}
 
 	provinces={
-		3890 3950 6919 6965 9761 9777 
+		3903 6950 933 9900 11881 3935 9915
 	}
 
 	local_supplies=0.0 
