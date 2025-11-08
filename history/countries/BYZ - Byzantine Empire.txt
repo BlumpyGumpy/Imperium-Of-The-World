@@ -1,0 +1,31 @@
+capital = 183
+
+oob = "BYZ _1936"
+
+set_convoys = 400
+set_research_slots = 4
+
+set_technology = {
+	infantry_weapons = 1
+	tech_mountaineers = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_recon = 1
+	tech_trucks = 1
+	gw_artillery = 1
+	trench_warfare = 1
+	fuel_silos = 1
+	synth_oil_experiments = 1
+}
+
+set_politics = {
+	ruling_party = neutrality
+	elections_allowed = no
+}
+
+set_popularities = {
+	fascism = 20
+	democratic = 5
+	communism = 5
+	neutrality = 70
+}
