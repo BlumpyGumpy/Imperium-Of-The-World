@@ -2,6 +2,8 @@ capital = 797
 
 oob = "BYZ_1936"
 
+puppet = BUL
+
 set_convoys = 180
 set_research_slots = 4
 
@@ -16,6 +18,9 @@ set_technology = {
 	trench_warfare = 1
 	fuel_silos = 1
 	synth_oil_experiments = 1
+	basic_small_airframe = 1
+	basic_medium_airframe = 1
+	basic_large_airframe = 1
 }
 
 set_politics = {

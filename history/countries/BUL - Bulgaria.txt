@@ -12,7 +12,7 @@ if = {
 set_convoys = 5 #VANILLA & DLC
 
 #You don't want Bulgarian party names? Just remove these lines
-puppet = BYZ
+
 set_party_name = { # DLC
 	ideology = communism
 	name = BUL_communism_party_bulgarian

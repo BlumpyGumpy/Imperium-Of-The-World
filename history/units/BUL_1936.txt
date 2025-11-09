@@ -94,7 +94,7 @@ units = {
 			is_name_ordered = yes
 			name_order = 2
 		}
-		location = 6923  # Plovdiv
+		location = 9771  # Plovdiv
 		division_template = "Pekhotna Divizija"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
@@ -106,7 +106,7 @@ units = {
 			is_name_ordered = yes
 			name_order = 8
 		}
-		location = 6923  # Plovdiv
+		location = 9771  # Plovdiv
 		division_template = "Pekhotna Divizija"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
@@ -118,7 +118,7 @@ units = {
 			is_name_ordered = yes
 			name_order = 10
 		}
-		location = 6923  # Plovdiv
+		location = 9771  # Plovdiv
 		division_template = "Pekhotna Divizija"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
@@ -132,7 +132,7 @@ units = {
 			is_name_ordered = yes
 			name_order = 3
 		}
-		location = 9783  # Varna
+		location = 9612  # Varna
 		division_template = "Pekhotna Divizija"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
@@ -144,7 +144,7 @@ units = {
 			is_name_ordered = yes
 			name_order = 4
 		}
-		location = 9783  # Varna
+		location = 3796  # Varna
 		division_template = "Pekhotna Divizija"
 		start_experience_factor = 0.2
 		start_equipment_factor = 0.3
