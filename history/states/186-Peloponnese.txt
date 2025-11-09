@@ -4,7 +4,7 @@ state={
 	name="STATE_186"
 	manpower=945000
 	
-	state_category = town
+	state_category = city
 
 	history={
 		victory_points = {
@@ -18,8 +18,9 @@ state={
 		}
 		owner = BYZ
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			arms_factory = 1
+			dockyard = 2
 			11965 = {
 				naval_base = 1
 
@@ -31,6 +32,7 @@ state={
 
 		}
 		add_core_of = BYZ
+		add_core_of = GRE
 
 	}
 

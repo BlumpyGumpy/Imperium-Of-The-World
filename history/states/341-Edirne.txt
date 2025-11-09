@@ -7,7 +7,7 @@ state= {
 
 	}
 	
-	state_category = town
+	state_category = city
 
 	history= {
 		owner = BYZ
@@ -15,7 +15,8 @@ state= {
 			11842 5
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 4
+			arms_factory = 1
 			industrial_complex = 1
 			849 = {
 				naval_base = 3

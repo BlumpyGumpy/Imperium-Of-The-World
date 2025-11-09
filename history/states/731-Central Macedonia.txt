@@ -9,7 +9,7 @@ state={
 			11818 5 
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			industrial_complex = 3
 			air_base = 2
 			11818 = {
@@ -19,6 +19,8 @@ state={
 
 		}
 		add_core_of = BYZ
+		add_core_of = GRE
+		add_claim_by = MAC
 		add_claim_by = BUL
 
 	}
