@@ -1,8 +1,8 @@
-capital = 183
+capital = 797
 
-oob = "BYZ _1936"
+oob = "BYZ_1936"
 
-set_convoys = 400
+set_convoys = 180
 set_research_slots = 4
 
 set_technology = {
